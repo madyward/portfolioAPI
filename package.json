@@ -10,6 +10,6 @@
   "author": "Madyson Ward",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.18.2"
   }
 }
